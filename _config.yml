@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LLLGGG"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "LGGG"
+  name             : "Lin Ge"
   avatar           : "profile.png"
-  bio              : "This is the website for LLLGGG"
+  bio              : "This is the website for Lin Ge"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
