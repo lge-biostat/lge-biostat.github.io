@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lin Ge. I am a 5th year PhD Candidate of Department of Biostatistics and Bioinformatics at the Rollins School of Public Health, Emory University. 
+I am a 5th year PhD Candidate from [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University. 
 
-My advisors are Dr. Robert H. Lyles and Dr. Lance A. Waller.
+My advisors are [Dr. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Dr. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345).
 
-My research interest mainly focus on **epidemiological statistics**, survey statistics, sampling methods, misclassification and measurement error, with a special interest in imaging statistics and independent component analysis.
+My research interests mainly focus on **epidemiological statistics**, survey statistics, sampling methods, misclassification and measurement error, with a special interest in imaging statistics and independent component analysis.
 
 I obtained BS in Mathematics from Southwest University in 2015 and MA in Statistics from University of Rochester in 2016.
 
-
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -57,3 +57,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
