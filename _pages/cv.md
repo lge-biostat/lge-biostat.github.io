@@ -19,19 +19,18 @@ Work experience
 ======
 * Internship, The Data, Analytics and Imaging (D.A.I.) Group, 06/2020-05/2021
   * Personalized Healthcare (PHC) at Roche/Genentech
-  <!-- *Duties included: Tagging issues
-   Supervisor: Professor Git -->
 
 * Internship, Department of Corporation Bank, 01/2015-04/2015
   * The Bank of East Asia (China) Limited, Beijing Branch
   <!-- 
-  *Duties included: Merging pull requests
-  * Supervisor: Professor Hub 
+  *Duties included: Tagging issues
+   Supervisor: Professor Git 
   -->
   
 Skills
 ======
 * Programming Language: R. Python, Matlab, SAS
+
 <!--
 * Skill 2
   * Sub-skill 2.1
