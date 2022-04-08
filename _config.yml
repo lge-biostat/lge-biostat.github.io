@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "lggg"
 title_separator          : "-"
-name                     : &name "Lgggg"
+name                     : &name "your name"
 description              : &description "personal description"
 url                      : https://lge-biostat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "LGG"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at Department of Biostatistics and Bioinformatics\n\
+  bio              : "PhD Candidate at Department of Biostatistics and Bioinformatics \n
                       Rollins School of Public Health \n\
                       Emory University"
   location         : "Atlanta, GA"
