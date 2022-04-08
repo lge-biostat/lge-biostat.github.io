@@ -81,10 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "LGG"
-  avatar           : "profile.png"
-  bio              : "PhD Candidate at Department of Biostatistics and Bioinformatics \n
-                      Rollins School of Public Health \n\
-                      Emory University"
+  avatar           : "Lin.jpg"
+  bio              : "PhD Candidate in Biostatistics at the Emory University"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
