@@ -24,17 +24,21 @@ Work experience
 
 * Internship, Department of Corporation Bank, 01/2015-04/2015
   * The Bank of East Asia (China) Limited, Beijing Branch
-  <!-- *Duties included: Merging pull requests
-  # Supervisor: Professor Hub -->
+  <!-- 
+  *Duties included: Merging pull requests
+  * Supervisor: Professor Hub 
+  -->
   
 Skills
 ======
 * Programming Language: R. Python, Matlab, SAS
-<!--* Skill 2
+<!--
+* Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3-->
+* Skill 3
+-->
 
 Awards
 ======
@@ -69,7 +73,7 @@ Teaching Assistant
 Service and leadership
 ======
 * Doctoral Student Advisory Board, Rollins School of Public Health, 04/2020 - 08/2021
-* BIOS Student Council Member, Department of Biostatistics and Bioinformatics, 09/2018 - present
-* BIOS BUZZ Editing Team Member, Department of Biostatistics and Bioinformatics, 09/2018 - present
+* BIOS Student Council, Department of Biostatistics and Bioinformatics, 09/2018 - present
+* BIOS BUZZ Editing Team, Department of Biostatistics and Bioinformatics, 09/2018 - present
 
 
