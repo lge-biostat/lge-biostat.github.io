@@ -12,7 +12,7 @@ I am a 5th year PhD Candidate from [Department of Biostatistics and Bioinformati
 
 My advisors are [Dr. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Dr. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345).
 
-My research interests mainly focus on **epidemiological statistics**, survey statistics, sampling methods, misclassification and measurement error, with a special interest in imaging statistics and independent component analysis.
+My research interests mainly focus on epidemiological statistics, survey statistics, sampling methods, misclassification and measurement error, with a special interest in imaging statistics and independent component analysis.
 
 I obtained BS in Mathematics from Southwest University in 2015 and MA in Statistics from University of Rochester in 2016.
 
