@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Internship, The Data, Analytics and Imaging (D.A.I.) Group
+* Internship, The Data, Analytics and Imaging (D.A.I.) Group, 06/2020-05/2021
   * Personalized Healthcare (PHC) at Roche/Genentech
   <!-- *Duties included: Tagging issues
    Supervisor: Professor Git -->
