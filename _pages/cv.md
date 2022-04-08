@@ -19,27 +19,28 @@ Work experience
 ======
 * Internship, The Data, Analytics and Imaging (D.A.I.) Group
   * Personalized Healthcare (PHC) at Roche/Genentech
-  # Duties included: Tagging issues
-  # Supervisor: Professor Git
+  <!-- *Duties included: Tagging issues
+   Supervisor: Professor Git -->
 
 * Internship, Department of Corporation Bank, 01/2015-04/2015
   * The Bank of East Asia (China) Limited, Beijing Branch
-  # Duties included: Merging pull requests
-  # Supervisor: Professor Hub
+  <!-- *Duties included: Merging pull requests
+  # Supervisor: Professor Hub -->
   
 Skills
 ======
 * Programming Language: R. Python, Matlab, SAS
-# Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-# Skill 3
+<!--* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3-->
 
 Awards
 ======
 * 2022 Summer Institute in Statistcs and Modeling in Infectious Diseases (SISMID) Scholarship (2022)
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -50,13 +51,15 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
+-->
   
 Teaching Assistant
 ======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+<!--  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> 
+  -->
 * BIOS 500, Statistical Methods I (2018 Fall)
 * BIOS 501, Statistical Methods II (2019 Spring)
 * BIOS 522, Survival Analysis Methos (2019 Fall, Master \& PhD Student Core Course)
