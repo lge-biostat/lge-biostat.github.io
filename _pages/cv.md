@@ -85,5 +85,8 @@ Services and leaderships
 * Doctoral Student Advisory Board, Rollins School of Public Health, 04/2020 - 08/2021
 * BIOS Student Council, Department of Biostatistics and Bioinformatics, 09/2018 - present
 * BIOS BUZZ Editing Team, Department of Biostatistics and Bioinformatics, 09/2018 - present
+* Journal Reviewer
+  * Epidemiology
+  * Neuroimage
 
 

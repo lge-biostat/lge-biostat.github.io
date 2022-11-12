@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 6th year PhD Candidate from [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University. 
 
-My advisors are [Dr. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Dr. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345).
+My advisors are [Dr. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Dr. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345), and my dissertation committee also includes [Dr. Howard H. Chang](https://www.sph.emory.edu/faculty/profile/index.php?FID=8595), [Dr. Timothy L. Lash](https://sph.emory.edu/faculty/profile/index.php?FID=timothy-lash-8685) and [Dr. Kevin C. Ward](https://sph.emory.edu/faculty/profile/index.php?FID=kevin-ward-822).
 
 My research interests mainly focus on epidemiological statistics, survey statistics, sampling methods, misclassification and measurement error, with a special interest in imaging statistics and independent component analysis.
 
