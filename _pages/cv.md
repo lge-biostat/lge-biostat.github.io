@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics, Southwest University, 2015
 * M.A. in Statistics, University of Rochester, 2016
-* Ph.D in Biostatistics, Emory University, 2023 (expected)
+* Ph.D in Biostatistics, Emory University, 2023 (expected)   
 
 Work experience
 ======
@@ -41,7 +41,12 @@ Skills
 
 Awards
 ======
-* 2022 Summer Institute in Statistcs and Modeling in Infectious Diseases (SISMID) Scholarship (2022)
+* Student Poster Presentation Award, Georgia Statistics Day 2022, 10/2022
+* Honorable Mention for BIOS 2022 Senior Student Presentation Award, 09/2022
+* Summer Institute in Statistcs and Modeling in Infectious Diseases (SISMID) Scholarship, 07/2022
+* ICSA 2022 Applied Statistics Symposium Sponsored Speaker, 06/2022
+* Emory LGS Conference Funding Award, 08/2021
+* Hanhong Outstanding Scholarship, Southwest University, 05/2015
 
 <!--
 Publications

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD Candidate from [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University. 
+I am a 6th year PhD Candidate from [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University. 
 
 My advisors are [Dr. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Dr. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345).
 
