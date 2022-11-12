@@ -15,13 +15,17 @@ Education
 ======
 * B.S. in Mathematics, Southwest University, 2015
 * M.A. in Statistics, University of Rochester, 2016
-* Ph.D in Biostatistics, Emory University, 2023 (expected)   
+* Ph.D in Biostatistics, Emory University, 2023 (expected)  
 
-Work experience
+Skills
+======
+* Programming Language: R, Python, Matlab, SAS
+
+Work experiences
 ======
 * Internship, The Data, Analytics and Imaging (D.A.I.) Group, 06/2020-05/2021
   * Personalized Healthcare (PHC) at Roche/Genentech
-
+<br />
 * Internship, Department of Corporation Bank, 01/2015-04/2015
   * The Bank of East Asia (China) Limited, Beijing Branch
   <!-- 
@@ -29,26 +33,6 @@ Work experience
    Supervisor: Professor Git 
   -->
   
-Skills
-======
-* Programming Language: R. Python, Matlab, SAS
-
-<!--
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
-
-Awards
-======
-* Student Poster Presentation Award, Georgia Statistics Day 2022, 10/2022
-* Honorable Mention for BIOS 2022 Senior Student Presentation Award, 09/2022
-* Summer Institute in Statistcs and Modeling in Infectious Diseases (SISMID) Scholarship, 07/2022
-* ICSA 2022 Applied Statistics Symposium Sponsored Speaker, 06/2022
-* Emory LGS Conference Funding Award, 08/2021
-* Hanhong Outstanding Scholarship, Southwest University, 05/2015
 
 <!--
 Publications
@@ -64,7 +48,7 @@ Talks
   {% endfor %}</ul> 
 -->
   
-Teaching Assistant
+Teaching Experiences (TAs)
 ======
 <!--  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -75,8 +59,28 @@ Teaching Assistant
 * BIOS 522, Survival Analysis Methos (2019 Fall, Master \& PhD Student Core Course)
 * BIOS 707, Advanced Linear Models (2019 Fall, PhD Student Core Course)
 * BIOS 709, Generalized Linear Models (2020 Spring, PhD Student Core Course)
-  
-Service and leadership
+
+Grant Trainees
+=====
+* Registering Cancer Recurrences in the Georgia Cancer Registry (R01CA208367)
+  * MPIs: Ward, Kevin C., Lash, Timothy L.
+  <br />
+* Refined Capture-Recapture Methods for Surveilling Cancer Recurrence (R01CA266574)
+  * MPIs: Lyles, Robert H., Waller, Lance A.
+
+Honors and Awards
+======
+* Student Poster Presentation Award, Georgia Statistics Day 2022, 10/2022
+* Honorable Mention for BIOS 2022 Senior Student Presentation Award, 09/2022
+* Summer Institute in Statistcs and Modeling in Infectious Diseases (SISMID) Scholarship, 07/2022
+* ICSA 2022 Applied Statistics Symposium Sponsored Speaker, 06/2022
+* Emory LGS Conference Funding Award, 08/2021
+* Hanhong Outstanding Scholarship, Southwest University, 05/2015
+* National Scholarship, Chinese Ministry of Education, 09/2013
+* National Scholarship, Chinese Ministry of Education, 09/2012
+
+
+Services and leaderships
 ======
 * Doctoral Student Advisory Board, Rollins School of Public Health, 04/2020 - 08/2021
 * BIOS Student Council, Department of Biostatistics and Bioinformatics, 09/2018 - present
