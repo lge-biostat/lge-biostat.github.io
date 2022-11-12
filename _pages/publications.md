@@ -5,15 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
+<!---
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
 
 Statistical Methodology
 ------
@@ -32,3 +30,9 @@ Statistical Collaborations
 * Nalpin, N.S., **Ge, L.**, Mehta, C.C., Gustafson, D., Robertson, R.K., Rubin, H.L., Sharma, A., Vance, D., Valcour, V.,(2019) Waldrop-Valverde, D., Ofotokun, I., Psychosocial Resources and Emotions in Women Living with HIV who have Cognitive Impairment: Applying the Socio-Emotional Adaptation Theory, _Research and Theory for Nursing Practice_, 34(1), 49-64. [doi: 10.1891/1541.6577.34.1.49](https://connect.springerpub.com/content/sgrrtnp/34/1/49.abstract)
 * Hongjun Li, Xiaoping Zhang, Weiliang Meng, **Lin Ge**, Visualization of Tomato
 Growth Based on Dry Matter Flow, _International Journal of Computer Games Technology_, 2017. [doi: 10.1155/2017/2302731](https://doi.org/10.1155/2017/2302731)
+
+
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
