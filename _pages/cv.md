@@ -70,6 +70,7 @@ Grant Trainees
 
 Honors and Awards
 -----
+* Honorable Mention for ICHPS 2023 Student Travel Awards, 12/2022
 * Student Poster Presentation Award, Georgia Statistics Day 2022, 10/2022
 * Honorable Mention for BIOS 2022 Senior Student Presentation Award, 09/2022
 * Summer Institute in Statistcs and Modeling in Infectious Diseases (SISMID) Scholarship, 07/2022
