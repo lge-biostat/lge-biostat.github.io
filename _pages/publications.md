@@ -15,9 +15,9 @@ author_profile: true
 
 Statistical Methodology
 ------
-1. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2022+), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(in preparation)_
-2. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y., A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
-3. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2022+). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals. _(under review at Statistics in Medicine)_ [Link](https://arxiv.org/abs/2211.13842)
+1. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y., A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
+2. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2022+), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(under review at the American Statistician)_
+3. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2022+). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals. _(under review at Statistics in Medicine, early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://arxiv.org/abs/2211.13842)
 4. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2022+), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _(under review at American Journal of Epidemiology)_ [Link](https://arxiv.org/abs/2212.04911)
 5. Zhang, Y., Chen, J., **Ge, L.**, Williamson, J. M., Waller, L. A., & Lyles, R. H. (2022+). Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance. _(under review at Epidemiology)_ [Link](https://doi.org/10.1101/2022.09.21.22280224)
 6. Lyles, R. H., Zhang, Y., **Ge, L.**, England, C., Ward, K., Lash, T. L., & Waller, L. A. (2022). Using CaptureRecapture Methodology to Enhance Precision of Representative Sampling-Based Case Count Estimates, _Journal of Survey Statistics and Methodology_, 10(5), 1292-1318, 2022. [Link](https://doi.org/10.1093/jssam/smab052)
