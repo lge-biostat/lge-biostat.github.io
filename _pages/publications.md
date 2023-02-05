@@ -19,17 +19,17 @@ Statistical Methodology
 
 #. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _(in preparation)_
 
-#. Nash, R., Streiff, M., Barton, H., **Ge, L.**, Jemal, A., Lipscomb, J., Lyles, R.H., McCullough, E.L., Lash, T.L., Ward, K.C., Cohort Profile: The Cancer Recurrence Information and Surveillance Program (CRISP) to identify recurrence among cancer survivors in Georgia.  _(in preparation)_
+#. Nash, R., Streiff, M., Barton, H., **Ge, L.**, Jemal, A., Lipscomb, J., Lyles, R.H., McCullough, E.L., Lash, T.L., Ward, K.C.(2023+), Cohort Profile: The Cancer Recurrence Information and Surveillance Program (CRISP) to identify recurrence among cancer survivors in Georgia.  _(in preparation)_
 
-#. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y., A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
+#. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2023+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2022+), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(under review at the American Statistician)_
 
-#. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2022+). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals. _(under review at Statistics in Medicine, early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://arxiv.org/abs/2211.13842)
+#. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2022+). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals. _(minor revision at Statistics in Medicine, early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://arxiv.org/abs/2211.13842)
 
-#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2022+), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _(under review at American Journal of Epidemiology)_ [Link](https://arxiv.org/abs/2212.04911)
+#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2022+), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _(revision at American Journal of Epidemiology)_ [Link](https://arxiv.org/abs/2212.04911)
 
-#. Zhang, Y., Chen, J., **Ge, L.**, Williamson, J. M., Waller, L. A., & Lyles, R. H. (2022+). Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance. _(under review at Epidemiology)_ [Link](https://doi.org/10.1101/2022.09.21.22280224)
+#. Zhang, Y., Chen, J., **Ge, L.**, Williamson, J. M., Waller, L. A., & Lyles, R. H. (2022+). Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance. _(accept at Epidemiology)_ [Link](https://doi.org/10.1101/2022.09.21.22280224)
 
 #. Lyles, R. H., Zhang, Y., **Ge, L.**, England, C., Ward, K., Lash, T. L., & Waller, L. A. (2022). Using CaptureRecapture Methodology to Enhance Precision of Representative Sampling-Based Case Count Estimates, _Journal of Survey Statistics and Methodology_, 10(5), 1292-1318, 2022. [Link](https://doi.org/10.1093/jssam/smab052)
 
