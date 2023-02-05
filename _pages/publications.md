@@ -33,7 +33,7 @@ Statistical Methodology
 
 #. Lyles, R. H., Zhang, Y., **Ge, L.**, England, C., Ward, K., Lash, T. L., & Waller, L. A. (2022). Using CaptureRecapture Methodology to Enhance Precision of Representative Sampling-Based Case Count Estimates, _Journal of Survey Statistics and Methodology_, 10(5), 1292-1318, 2022. [Link](https://doi.org/10.1093/jssam/smab052)
 
-#. Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., **Ge, L.**, Feng, C. and Tu, X.M. (2018), Modern variable selection for longitudinal semi-parametric models with missing data, _Applied Statistics_, 45(14), 2548-2562. [Link](https://doi.org/10.1080/02664763.2018.1426739)
+#. Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., **Ge, L.**, Feng, C. and Tu, X.M. (2018), Modern variable selection for longitudinal semi-parametric models with missing data, _Journal of Applied Statistics_, 45(14), 2548-2562. [Link](https://doi.org/10.1080/02664763.2018.1426739)
 
 #. **Ge, L.**, Tu, J. X., Zhang, H., Wang, H., He, H., and Gunzler, D. (2016), Modern Methods for Longitudinal Data Analysis, Capabilities, Caveats and Cautions, _Shanghai Archives of Psychiatry_, 28(5). [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5434286/)
 
