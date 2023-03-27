@@ -15,6 +15,8 @@ author_profile: true
 
 Statistical Methodology
 ------
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Capture-Recapture Approach for Extending Causal Inference from Observational Cohorts to Trial-eligible Target Population. _(in preparation)_
+
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(in preparation)_
 
 #. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _(in preparation)_
