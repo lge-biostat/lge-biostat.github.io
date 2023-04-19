@@ -27,9 +27,9 @@ Statistical Methodology
 
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2022+), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(under review at the American Statistician)_ [Link](https://arxiv.org/abs/2302.03558)
 
-#. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2022+). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals. _(minor revision at Statistics in Medicine, early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://arxiv.org/abs/2211.13842)
+#. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2023+). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals. _(accept at Statistics in Medicine, early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://arxiv.org/abs/2211.13842)
 
-#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2022+), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _(revision at American Journal of Epidemiology)_ [Link](https://arxiv.org/abs/2212.04911)
+#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2022+), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _(accept at American Journal of Epidemiology)_ [Link](https://arxiv.org/abs/2212.04911)
 
 #. Zhang, Y., Chen, J., **Ge, L.**, Williamson, J. M., Waller, L. A., & Lyles, R. H. (2022+). Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance. _(accept at Epidemiology)_ [Link](https://doi.org/10.1101/2022.09.21.22280224)
 
