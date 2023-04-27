@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 -----
-* B.S. in Mathematics, Southwest University, 2015
-* M.A. in Statistics, University of Rochester, 2016
-* Ph.D in Biostatistics, Emory University, 2023 (expected)  
+* B.S. in Mathematics, Southwest University, 2015.06
+* M.A. in Statistics, University of Rochester, 2016.12
+* Ph.D in Biostatistics, Emory University, 2023.05  
 
 Skills
 -----

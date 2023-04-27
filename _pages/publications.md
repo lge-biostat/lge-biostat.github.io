@@ -21,8 +21,6 @@ Statistical Methodology
 
 #. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _(in preparation)_
 
-#. Nash, R., Streiff, M., Barton, H., **Ge, L.**, Jemal, A., Lipscomb, J., Lyles, R.H., McCullough, E.L., Lash, T.L., Ward, K.C.(2023+), Cohort Profile: The Cancer Recurrence Information and Surveillance Program (CRISP) to identify recurrence among cancer survivors in Georgia.  _(in preparation)_
-
 #. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2023+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2022+), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(under review at the American Statistician)_ [Link](https://arxiv.org/abs/2302.03558)
@@ -41,6 +39,8 @@ Statistical Methodology
 
 Statistical Collaborations
 ------
+#. Nash, R., Streiff, M., Barton, H., **Ge, L.**, Jemal, A., Lipscomb, J., Lyles, R.H., McCullough, E.L., Lash, T.L., Ward, K.C.(2023+), Cohort Profile: The Cancer Recurrence Information and Surveillance Program (CRISP) to identify recurrence among cancer survivors in Georgia.  _(in preparation)_
+
 #. Hailstorks, T., Cordes, S., Cwiak, C., Gray, B., **Ge, L.**, Moore, R., Haddad, L. (2020), Gabapentin as an Adjunct to Paracervical Block for Perioperative Pain Management for First Trimester Uterine Aspiration: A Randomized Controlled Trial, _American Journal of Obstetrics and Gynecology_, 223(6), 884.e1884.e10. [Link](https://doi.org/10.1016/j.ajog.2020.06.011)
 
 #. Nalpin, N.S., **Ge, L.**, Mehta, C.C., Gustafson, D., Robertson, R.K., Rubin, H.L., Sharma, A., Vance, D., Valcour, V.,(2019) Waldrop-Valverde, D., Ofotokun, I., Psychosocial Resources and Emotions in Women Living with HIV who have Cognitive Impairment: Applying the Socio-Emotional Adaptation Theory, _Research and Theory for Nursing Practice_, 34(1), 49-64. [Link](https://connect.springerpub.com/content/sgrrtnp/34/1/49.abstract)
