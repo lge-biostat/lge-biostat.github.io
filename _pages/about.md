@@ -12,7 +12,7 @@ Welcome to my homepage! I am thrilled to share with you that I will soon be join
 
 Before joining Harvard, I earned my Ph.D. degree from the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University, under the guidance of esteemed advisors, [Dr. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Dr. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345). I was fortunate to have an exceptional dissertation committee that included [Dr. Howard H. Chang](https://www.sph.emory.edu/faculty/profile/index.php?FID=8595), [Dr. Timothy L. Lash](https://sph.emory.edu/faculty/profile/index.php?FID=timothy-lash-8685) and [Dr. Kevin C. Ward](https://sph.emory.edu/faculty/profile/index.php?FID=kevin-ward-822).
 
-Prior to that, I obtained my Bachelor's degree in Mathematics from Southwest University, where I worked under the guidance of [Dr. Xianning Liu](http://math.swu.edu.cn/info/1096/3604.htm), and my Master's degree in Statistics from the University of Rochester, where I was advised by [Dr. Xin Tu](https://profiles.ucsd.edu/xin.tu).
+Prior to that, I obtained my Bachelor's degree in Mathematics from Southwest University, where I worked under the guidance of [Dr. Xianning Liu](http://math.swu.edu.cn/info/1014/2359.htm), and my Master's degree in Statistics from the University of Rochester, where I was advised by [Dr. Xin Tu](https://profiles.ucsd.edu/xin.tu).
 
 My research interests are primarily focused on epidemiological statistics, causal inference, sampling methods, misclassification and measurement error, and I am also interested in imaging statistics and functional data analysis.
 
