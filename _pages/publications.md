@@ -11,17 +11,18 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+#. Hamaya, R., Wang, P., **Ge, L.**, Wang, M. (2023+), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(in preparation)_
+
 -->
 
 Statistical Methodology
 ------
-#. Hamaya, R., Wang, P., **Ge, L.**, Wang, M. (2023+), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(in preparation)_
-
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Capture-Recapture Approach for Extending Causal Inference from Observational Cohorts to Trial-eligible Target Population. _(in preparation)_
 
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(in preparation)_
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(submitted)_
 
-#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _[Link](https://arxiv.org/abs/2306.10666)
+#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. [Link](https://arxiv.org/abs/2306.10666)
 
 #. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2023+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
