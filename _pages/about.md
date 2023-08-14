@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am thrilled to share with you that I will soon be joining the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/) as a Postdoctoral Research Fellow, where I will be working alongside [Dr. Molin Wang](https://www.hsph.harvard.edu/molin-wang/).
+Welcome to my homepage! I am a Postdoctoral Research Fellow at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/), where I will be working alongside [Dr. Molin Wang](https://www.hsph.harvard.edu/molin-wang/).
 
 Before joining Harvard, I earned my Ph.D. degree from the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University, under the guidance of esteemed advisors, [Dr. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Dr. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345). I was fortunate to have an exceptional dissertation committee that included [Dr. Howard H. Chang](https://www.sph.emory.edu/faculty/profile/index.php?FID=8595), [Dr. Timothy L. Lash](https://sph.emory.edu/faculty/profile/index.php?FID=timothy-lash-8685) and [Dr. Kevin C. Ward](https://sph.emory.edu/faculty/profile/index.php?FID=kevin-ward-822).
 

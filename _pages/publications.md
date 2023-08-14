@@ -14,6 +14,8 @@ author_profile: true
 
 #. Hamaya, R., Wang, P., **Ge, L.**, Wang, M. (2023+), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(in preparation)_
 
+#. Hou, Z., **Ge, L.**, Wang, M. (2023+), Different ceiling approaches to deal with exposure outliers in Cox model settings: a simulation study. _(in preparation)_
+
 -->
 
 Statistical Methodology
@@ -22,11 +24,11 @@ Statistical Methodology
 
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(submitted)_
 
-#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. [Link](https://arxiv.org/abs/2306.10666)
+#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _(submitted)_ [Link](https://arxiv.org/abs/2306.10666)
 
 #. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2023+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2022+), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(Minor Revision at the American Statistician)_ [Link](https://arxiv.org/abs/2302.03558)
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2022+), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(accept at the American Statistician)_ [Link](https://arxiv.org/abs/2302.03558)
 
 #. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2023). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals, _Statistics in Medicine_, 42(17), 2928-2943, 2023. _(early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://doi.org/10.1002/sim.9759)
 
