@@ -28,15 +28,15 @@ Statistical Methodology
 
 #. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2023+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _(accept at the American Statistician)_ [Link](https://arxiv.org/abs/2302.03558)
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _the American Statistician_. [Link](https://doi.org/10.1080/00031305.2023.2250401)
 
-#. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2023). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals, _Statistics in Medicine_, 42(17), 2928-2943, 2023. _(early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://doi.org/10.1002/sim.9759)
+#. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2023). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals, _Statistics in Medicine_, 42(17), 2928-2943. _(early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://doi.org/10.1002/sim.9759)
 
-#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2023), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _(accept at American Journal of Epidemiology)_ [Link](https://arxiv.org/abs/2212.04911)
+#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2023), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _American Journal of Epidemiology_. [Link](https://doi.org/10.1093/aje/kwad177)
 
-#. Zhang, Y., Chen, J., **Ge, L.**, Williamson, J. M., Waller, L. A., & Lyles, R. H. (2023). Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance, _Epidemiology_, 34(4), 601-610, 2023 [Link](https://doi.org/10.1097/EDE.0000000000001614)
+#. Zhang, Y., Chen, J., **Ge, L.**, Williamson, J. M., Waller, L. A., & Lyles, R. H. (2023). Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance, _Epidemiology_, 34(4), 601-610. [Link](https://doi.org/10.1097/EDE.0000000000001614)
 
-#. Lyles, R. H., Zhang, Y., **Ge, L.**, England, C., Ward, K., Lash, T. L., & Waller, L. A. (2022). Using CaptureRecapture Methodology to Enhance Precision of Representative Sampling-Based Case Count Estimates, _Journal of Survey Statistics and Methodology_, 10(5), 1292-1318, 2022. [Link](https://doi.org/10.1093/jssam/smab052)
+#. Lyles, R. H., Zhang, Y., **Ge, L.**, England, C., Ward, K., Lash, T. L., & Waller, L. A. (2022). Using Capture Recapture Methodology to Enhance Precision of Representative Sampling-Based Case Count Estimates, _Journal of Survey Statistics and Methodology_, 10(5), 1292-1318. [Link](https://doi.org/10.1093/jssam/smab052)
 
 #. Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., **Ge, L.**, Feng, C. and Tu, X.M. (2018), Modern variable selection for longitudinal semi-parametric models with missing data, _Journal of Applied Statistics_, 45(14), 2548-2562. [Link](https://doi.org/10.1080/02664763.2018.1426739)
 
