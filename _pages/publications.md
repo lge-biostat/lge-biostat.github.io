@@ -12,23 +12,28 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-#. Hamaya, R., Wang, P., **Ge, L.**, Wang, M. (2023+), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(in preparation)_
-
 #. Hou, Z., **Ge, L.**, Wang, M. (2023+), Different ceiling approaches to deal with exposure outliers in Cox model settings: a simulation study. _(in preparation)_
 
 -->
 
 Statistical Methodology
 ------
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Capture-Recapture Approach for Extending Causal Inference from Observational Cohorts to Trial-eligible Target Population. _(in preparation)_
 
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023+), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(submitted)_ [Link](https://arxiv.org/abs/2307.00214)
+#. **Ge, L.**, Yang, C., Li, J., Wang, M., & Spiegelman, D.(2024+), Measurement error correction for spatially defined environmental exposure on survival outcomes. _(in preparation)_
 
-#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023+), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _(submitted)_ [Link](https://arxiv.org/abs/2306.10666)
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2024+), Capture-Recapture Approach for Extending Causal Inference from Observational Cohorts to Trial-eligible Target Population. _(in preparation)_
 
-#. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2023+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
+#. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2024+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _the American Statistician_. [Link](https://doi.org/10.1080/00031305.2023.2250401)
+#. Hamaya, R., Wang, P., **Ge, L.**, Giovannucci, E. L., & Wang, M. (2024+), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(submitted)_
+
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2024), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(accept at Annals of Applied Statistics)_ [Link](https://arxiv.org/abs/2307.00214)
+
+#. Zhang, Y., **Ge, L.**, Waller, L. A., Shah, S., & Lyles, R. H.(2024), A capture-recapture modeling framework emphasizing expert opinion in disease surveillance. _Statistical Methods in Medical Research_, 0(0). [Link](https://doi:10.1177/09622802241254217)
+
+#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _Epidemiologic Methods_, vol.12, no.s1, pp.20230019. [Link](https://doi.org/10.1515/em-2023-0019)
+
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _the American Statistician_, 78(2), 192–198. [Link](https://doi.org/10.1080/00031305.2023.2250401)
 
 #. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2023). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals, _Statistics in Medicine_, 42(17), 2928-2943. _(early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://doi.org/10.1002/sim.9759)
 
