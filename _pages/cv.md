@@ -13,13 +13,14 @@ redirect_from:
 
 Education
 -----
-* B.S. in Mathematics, Southwest University, 2015.06
+* Ph.D in Biostatistics, Emory University, 2023.05 
 * M.A. in Statistics, University of Rochester, 2016.12
-* Ph.D in Biostatistics, Emory University, 2023.05  
+* B.S. in Mathematics, Southwest University, 2015.06
+
 
 Skills
 -----
-* Programming Language: R, Python, Matlab, SAS
+* Programming Language: R, Python, Matlab, SAS, Apache Spark
 
 Work experiences
 -----
@@ -54,19 +55,24 @@ Teaching Experiences (TAs)
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   -->
-* BIOS 500, Statistical Methods I (2018 Fall)
-* BIOS 501, Statistical Methods II (2019 Spring)
-* BIOS 522, Survival Analysis Methos (2019 Fall, Master & PhD Student Core Course)
-* BIOS 707, Advanced Linear Models (2019 Fall, PhD Student Core Course)
 * BIOS 709, Generalized Linear Models (2020 Spring, PhD Student Core Course)
+* BIOS 707, Advanced Linear Models (2019 Fall, PhD Student Core Course)
+* BIOS 522, Survival Analysis Methos (2019 Fall, Master & PhD Student Core Course)
+* BIOS 501, Statistical Methods II (2019 Spring)
+* BIOS 500, Statistical Methods I (2018 Fall)
 
+<!--
 Grant Trainees
 -----
+* Statistical Methods to Account for Exposure Uncertainty in Environmental Epidemiology (R01ES026246)
+  * PI: Spiegelman, Donna L. 
+  <br />
 * Registering Cancer Recurrences in the Georgia Cancer Registry (R01CA208367)
   * MPIs: Ward, Kevin C., Lash, Timothy L.
   <br />
 * Refined Capture-Recapture Methods for Surveilling Cancer Recurrence (R01CA266574)
   * MPIs: Lyles, Robert H., Waller, Lance A.
+    -->
 
 Honors and Awards
 -----
@@ -84,11 +90,10 @@ Honors and Awards
 Services and leaderships
 -----
 * Doctoral Student Advisory Board, Rollins School of Public Health, 04/2020 - 08/2021
-* BIOS Student Council, Department of Biostatistics and Bioinformatics, 09/2018 - present
-* BIOS BUZZ Editing Team, Department of Biostatistics and Bioinformatics, 09/2018 - present
+* BIOS Student Council, Department of Biostatistics and Bioinformatics, 09/2018 - 08/2021
+* BIOS BUZZ Editing Team, Department of Biostatistics and Bioinformatics, 09/2018 - 08/2021
 * Journal Reviewer
-  * Epidemiology
-  * Neuroimage
+  * Epidemiology, Neuroimage, BMC Medical Research Methodology, Plos One
 * Conference Reviewer
   * APHA 2022
 

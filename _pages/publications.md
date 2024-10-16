@@ -19,25 +19,25 @@ author_profile: true
 Statistical Methodology
 ------
 
-#. **Ge, L.**, Yang, C., Li, J., Wang, M., & Spiegelman, D.(2024+), Measurement error correction for spatially defined environmental exposure on survival outcomes. _(in preparation)_
+#. **Ge, L.**, Yang, C., Zucker, D., Li, J., Wang, M., & Spiegelman, D.(2024), Measurement error correction for spatially defined environmental exposure on survival outcomes. _(arXiv)_ [Link](https://arxiv.org/abs/2410.09278)
 
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2024+), Capture-Recapture Approach for Extending Causal Inference from Observational Cohorts to Trial-eligible Target Population. _(in preparation)_
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2024), Capture-Recapture Approach for Extending Causal Inference from Observational Cohorts to Trial-eligible Target Population. _(arXiv)_ [Link](https://arxiv.org/abs/2409.18358)
 
 #. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2024+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
-#. Hamaya, R., Wang, P., **Ge, L.**, Giovannucci, E. L., & Wang, M. (2024+), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(submitted)_
+#. Hamaya, R., Wang, P., **Ge, L.**, Giovannucci, E. L., & Wang, M. (2024), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(arXiv)_ [Link](https://arxiv.org/abs/2403.14044)
 
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2024), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(accept at Annals of Applied Statistics)_ [Link](https://arxiv.org/abs/2307.00214)
 
-#. Zhang, Y., **Ge, L.**, Waller, L. A., Shah, S., & Lyles, R. H.(2024), A capture-recapture modeling framework emphasizing expert opinion in disease surveillance. _Statistical Methods in Medical Research_, 0(0). [Link](https://doi:10.1177/09622802241254217)
+#. Zhang, Y., **Ge, L.**, Waller, L. A., Shah, S., & Lyles, R. H.(2024), A capture-recapture modeling framework emphasizing expert opinion in disease surveillance. _Statistical Methods in Medical Research_, 33(7), 1197-1210. [Link](https://doi:10.1177/09622802241254217)
 
-#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _Epidemiologic Methods_, vol.12, no.s1, pp.20230019. [Link](https://doi.org/10.1515/em-2023-0019)
+#. Zhang, Y., **Ge, L.**, Waller, L. A., & Lyles, R. H.(2023), On some pitfalls of the log-linear modeling framework for capture-recapture studies in disease surveillance. _Epidemiologic Methods_, 12(s1), 20230019. [Link](https://doi.org/10.1515/em-2023-0019)
 
 #. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2023), Enhanced Inference for Finite Population Sampling-based Prevalence Estimation with Misclassification Errors. _the American Statistician_, 78(2), 192–198. [Link](https://doi.org/10.1080/00031305.2023.2250401)
 
 #. **Ge, L.**, Zhang, Y., Lash, T. L., Ward, K. C., Waller, L. A., & Lyles, R. H.(2023). Tailoring Capture-Recapture Methods to Estimate Registry-Based Case Counts Based on Error-Prone Diagnostic Signals, _Statistics in Medicine_, 42(17), 2928-2943. _(early version won the Student Paper Travel Awards at the 14th International Conference on Health Policy Statistics, ICHPS)_ [Link](https://doi.org/10.1002/sim.9759)
 
-#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2023), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. _American Journal of Epidemiology_. [Link](https://doi.org/10.1093/aje/kwad177)
+#. Lyles, R. H., Zhang, Y., **Ge, L.**, Waller, L.A. (2023), A Design and Analytic Strategy for Monitoring COVID-19 Positivity and Case Characteristics in Accessible Closed Populations. 193(1), 193-202. _American Journal of Epidemiology_. [Link](https://doi.org/10.1093/aje/kwad177)
 
 #. Zhang, Y., Chen, J., **Ge, L.**, Williamson, J. M., Waller, L. A., & Lyles, R. H. (2023). Sensitivity and Uncertainty Analysis for Two-Stream Capture-Recapture Methods in Disease Surveillance, _Epidemiology_, 34(4), 601-610. [Link](https://doi.org/10.1097/EDE.0000000000001614)
 
@@ -45,7 +45,7 @@ Statistical Methodology
 
 #. Kowalski, J., Sun, H., Chen, T., Liang, Y., Liu, J., **Ge, L.**, Feng, C. and Tu, X.M. (2018), Modern variable selection for longitudinal semi-parametric models with missing data, _Journal of Applied Statistics_, 45(14), 2548-2562. [Link](https://doi.org/10.1080/02664763.2018.1426739)
 
-#. **Ge, L.**, Tu, J. X., Zhang, H., Wang, H., He, H., and Gunzler, D. (2016), Modern Methods for Longitudinal Data Analysis, Capabilities, Caveats and Cautions, _Shanghai Archives of Psychiatry_, 28(5). [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5434286/)
+#. **Ge, L.**, Tu, J. X., Zhang, H., Wang, H., He, H., and Gunzler, D. (2016), Modern Methods for Longitudinal Data Analysis, Capabilities, Caveats and Cautions, _Shanghai Archives of Psychiatry_, 28(5), 293-300. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5434286/)
 
 Statistical Collaborations
 ------
