@@ -25,9 +25,9 @@ Statistical Methodology
 
 #. **Ge, L.**, Wang, Y., Lukemire, J., Guo, Y.(2024+), A hierarchical independent component analysis model for Multi-site Neuroimaging Studies. _(in preparation)_
 
-#. Hamaya, R., Wang, P., **Ge, L.**, Giovannucci, E. L., & Wang, M. (2024), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(arXiv)_ [Link](https://arxiv.org/abs/2403.14044)
+#. Hamaya, R., Wang, P., **Ge, L.**, Giovannucci, E. L., & Wang, M. (2024), Statistical tests for comparing the associations of multiple exposures with a same outcome. _(accept at American Journal of Preventive Medicine)_ [Link](https://arxiv.org/abs/2403.14044)
 
-#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2024), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _(accept at Annals of Applied Statistics)_ [Link](https://arxiv.org/abs/2307.00214)
+#. **Ge, L.**, Zhang, Y., Waller, L. A., & Lyles, R. H.(2024), Utilizing a Capture-Recapture Strategy to Accelerate Infectious Disease Surveillance. _Annals of Applied Statistics_, 18(4), 3130-3145. [Link](https://doi:10.1214/24-AOAS1927)
 
 #. Zhang, Y., **Ge, L.**, Waller, L. A., Shah, S., & Lyles, R. H.(2024), A capture-recapture modeling framework emphasizing expert opinion in disease surveillance. _Statistical Methods in Medical Research_, 33(7), 1197-1210. [Link](https://doi:10.1177/09622802241254217)
 
@@ -49,6 +49,8 @@ Statistical Methodology
 
 Statistical Collaborations
 ------
+#. Siebach, K., Kubzansky, L., Berkman, L., Wang, M., **Ge, L.**, Diaz-Linhart, Y., Kowalski, A., Kelly, E. (2024). Effectiveness of a Participatory Voice Intervention on Psychological Well-being among Warehouse Workers: Results from the Fulfillment Center Intervention Study. _(under review)_.
+
 #. Nash, R., Streiff, M., Barton, H., **Ge, L.**, Jemal, A., Lipscomb, J., Lyles, R.H., McCullough, E.L., Lash, T.L., Ward, K.C.(2023+), Cohort Profile: The Cancer Recurrence Information and Surveillance Program (CRISP) to identify recurrence among cancer survivors in Georgia.  _(in preparation)_
 
 #. Hailstorks, T., Cordes, S., Cwiak, C., Gray, B., **Ge, L.**, Moore, R., Haddad, L. (2020), Gabapentin as an Adjunct to Paracervical Block for Perioperative Pain Management for First Trimester Uterine Aspiration: A Randomized Controlled Trial, _American Journal of Obstetrics and Gynecology_, 223(6), 884.e1884.e10. [Link](https://doi.org/10.1016/j.ajog.2020.06.011)

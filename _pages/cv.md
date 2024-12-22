@@ -93,8 +93,11 @@ Services and leaderships
 * BIOS Student Council, Department of Biostatistics and Bioinformatics, 09/2018 - 08/2021
 * BIOS BUZZ Editing Team, Department of Biostatistics and Bioinformatics, 09/2018 - 08/2021
 * Journal Reviewer
-  * Epidemiology, Neuroimage, BMC Medical Research Methodology, Plos One
+  * Epidemiology, Neuroimage, BMC Medical Research Methodology, Plos One, Scitentific Report, Stats, International Journal of Statisitics in Medical Research
 * Conference Reviewer
   * APHA 2022
+* Editorial Board
+  * International Journal of Statisitics in Medical Research, 10/2024 - present
+  * Journal of Public Health Research, 12/2024 - present
 
 
