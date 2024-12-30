@@ -11,7 +11,7 @@ Invited Talks
 
 #. (upcoming) 03/2025, Eastern North American Region (ENAR), New Orleans, LA, USA, _Precision in EHR Data: Overcoming Challenges of Measurement Error in Health Outcomes_ (Session Organizer \& Chair)
 
-#. 12/2024, New York University Shanghai, Shanghai, China, _Measurement error correction for spatially defined environmental exposure on survival outcomes._ 
+[//]: < #. 12/2024, New York University Shanghai, Shanghai, China, _Measurement error correction for spatially defined environmental exposure on survival outcomes._ >
 
 #. 03/2024, Eastern North American Region (ENAR), Baltimore, MD, USA, _A hierarchical independent component analysis model for Multi-site Neuroimaging Studies._
 
