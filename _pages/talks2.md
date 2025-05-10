@@ -7,9 +7,9 @@ author_profile: true
 
 Invited Talks
 ------
-#. (upcoming) 08/2025, Joint Statistical Meetings (JSM), Nashville, TN, USA, _Innovative Approaches to Address Bias and Measurement Error in Epidemiological Research_ (Session Organizer \& Chair)
+#. (upcoming) 08/2025, Joint Statistical Meetings (JSM), Nashville, TN, USA, _Innovative Approaches to Address Bias and Measurement Error in Epidemiological Research_ (Session Organizer & Chair)
 
-#. (upcoming) 03/2025, Eastern North American Region (ENAR), New Orleans, LA, USA, _Precision in EHR Data: Overcoming Challenges of Measurement Error in Health Outcomes_ (Session Organizer \& Chair)
+#. 03/2025, Eastern North American Region (ENAR), New Orleans, LA, USA, _Precision in EHR Data: Overcoming Challenges of Measurement Error in Health Outcomes_ (Session Organizer & Chair)
 
 [//]: < #. 12/2024, New York University Shanghai, Shanghai, China, _Measurement error correction for spatially defined environmental exposure on survival outcomes._ >
 
