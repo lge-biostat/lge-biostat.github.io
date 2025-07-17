@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lin Ge"
   avatar           : "Lin.jpg"
-  bio              : "Postdoctoral Research Fellow at Harvard University"
-  location         : "Boston, MA"
-  employer         :
+  bio              : "Assistant Professor of Biostatistics"
+  location         : "Bloomington, IN"
+  employer         : "Indiana University Bloomington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FqA84nUAAAAJ&hl=en"
-  email            : "linge@hsph.harvard.edu"
+  email            : "gelin@iu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
