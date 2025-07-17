@@ -24,7 +24,7 @@ Prior to that, I obtained my Bachelor's degree in Mathematics from [Yuan Longpin
 
 My research centers on correcting misclassification and measurement error in disease surveillance research, cancer epidemiology and environmental health, leveraging electronic health record (EHR) and cutting-edge study and sampling design to advance epidemiological methods. I also collaborate closely with professions across various fields, including epidemiologists, physicians, economists, public health scientists, providing essential statistical expertise and advancing our shared goal of improving public health.
 
-### I am looking for motivated undergraduate, master, and PhD students, as well as Postdocs, with strong quantitative and computing skills to join us on exciting projects. If you are interested, please email me with a brief self-introduction.
+## I am looking for motivated undergraduate, master, and PhD students, as well as Postdocs, with strong quantitative and computing skills to join us on exciting projects. If you are interested, please email me with a brief self-introduction.
 
 <!--
 My research interests are primarily focused on epidemiological statistics, causal inference, sampling methods, misclassification and measurement error, and I am also interested in imaging statistics and functional data analysis.
