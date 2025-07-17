@@ -8,13 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a Postdoctoral Research Fellow at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/), where I work alongside [Prof. Molin Wang](https://www.hsph.harvard.edu/molin-wang/) and collaborate with [Prof. Donna Spiegelman](https://ysph.yale.edu/profile/donna-spiegelman/) from Yale School of Public Health.
+Welcome to my homepage! I am currently a tenure-track assistant professor in the [Department of Epidemiology and Biostatistics](https://publichealth.indiana.edu/research/departments/epidemiology/index.html) at the School of Public Health, Indiana University Bloomington (IUB).
 
-Before joining Harvard, I earned my Ph.D. degree from the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University, under the guidance of esteemed advisors, [Prof. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Prof. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345). I was fortunate to have an exceptional dissertation committee that included [Prof. Howard H. Chang](https://www.sph.emory.edu/faculty/profile/index.php?FID=8595), [Prof. Timothy L. Lash](https://sph.emory.edu/faculty/profile/index.php?FID=timothy-lash-8685) and [Prof. Kevin C. Ward](https://sph.emory.edu/faculty/profile/index.php?FID=kevin-ward-822).
+<!---
+I am a Postdoctoral Research Fellow at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/), where I work alongside [Prof. Molin Wang](https://www.hsph.harvard.edu/molin-wang/) and collaborate with [Prof. Donna Spiegelman](https://ysph.yale.edu/profile/donna-spiegelman/) from Yale School of Public Health.
+-->
+
+Before joining IUB, I earned my Ph.D. degree in 2023 from the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at the Rollins School of Public Health, Emory University, supervised by [Prof. Robert H. Lyles](https://www.sph.emory.edu/faculty/profile/index.php?FID=492) and [Prof. Lance A. Waller](https://www.sph.emory.edu/faculty/profile/index.php?FID=345). Following my Ph.D., I completed two years of postdoctoral training at the Harvard T.H Chan School of Public Health, working with [Prof. Molin Wang](https://www.hsph.harvard.edu/molin-wang/), and collaborated with [Prof. Donna Spiegelman](https://ysph.yale.edu/profile/donna-spiegelman/) from the Yale School of Public Health.
+
+<!---
+I was fortunate to have an exceptional dissertation committee that included [Prof. Howard H. Chang](https://www.sph.emory.edu/faculty/profile/index.php?FID=8595), [Prof. Timothy L. Lash](https://sph.emory.edu/faculty/profile/index.php?FID=timothy-lash-8685) and [Prof. Kevin C. Ward](https://sph.emory.edu/faculty/profile/index.php?FID=kevin-ward-822).
+-->
 
 Prior to that, I obtained my Bachelor's degree in Mathematics from [Yuan Longping](https://en.wikipedia.org/wiki/Yuan_Longping) honor program offered by [Hanhong College](https://hanhong.swu.edu.cn/) at Southwest University, Chongqing, China, where I studied under the guidance of [Prof. Xianning Liu](http://math.swu.edu.cn/info/1014/2359.htm), and my Master's degree in Statistics from the University of Rochester, where I was advised by [Prof. Xin Tu](https://profiles.ucsd.edu/xin.tu).
 
 My research centers on correcting misclassification and measurement error in disease surveillance research, cancer epidemiology and environmental health, leveraging electronic health record (EHR) and cutting-edge study and sampling design to advance epidemiological methods. I also collaborate closely with professions across various fields, including epidemiologists, physicians, economists, public health scientists, providing essential statistical expertise and advancing our shared goal of improving public health.
+
+### I am looking for motivated undergraduate, master, and PhD students, as well as Postdocs, with strong quantitative and computing skills to join us on exciting projects. If you are interested, please email me with a brief self-introduction.
 
 <!--
 My research interests are primarily focused on epidemiological statistics, causal inference, sampling methods, misclassification and measurement error, and I am also interested in imaging statistics and functional data analysis.

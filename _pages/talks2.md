@@ -7,6 +7,8 @@ author_profile: true
 
 Invited Talks
 ------
+#. (upcoming) 08/2025, 8th International Conference on Econometrics and Statistics (EcoSta), Tokyo, Japan, (virtual), _A Capture-Recapture Approach to Facilitate Causal Inference for a Trial-eligible Observational Cohort_.
+
 #. (upcoming) 08/2025, Joint Statistical Meetings (JSM), Nashville, TN, USA, _Innovative Approaches to Address Bias and Measurement Error in Epidemiological Research_ (Session Organizer & Chair)
 
 #. 03/2025, Eastern North American Region (ENAR), New Orleans, LA, USA, _Precision in EHR Data: Overcoming Challenges of Measurement Error in Health Outcomes_ (Session Organizer & Chair)

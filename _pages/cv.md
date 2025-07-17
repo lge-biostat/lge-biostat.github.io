@@ -24,10 +24,14 @@ Skills
 
 Work experiences
 -----
-* Internship, The Data, Analytics and Imaging (D.A.I.) Group, 06/2020-05/2021
+* Tenure-track Assistant Professor, Department of Epidemiology and Biostatistics, 06/2025 - present
+  * Indiana University Bloomington, Bloomington, IN
+* Postdoctoral Research Fellow, Department of Epidemiology and Biostatistics, 07/2023 - 06/2025
+  * Harvard T.H Chan School of Public Health, Boston, MA
+* Internship, The Data, Analytics and Imaging (D.A.I.) Group, 06/2020 - 05/2021
   * Personalized Healthcare (PHC) at Roche/Genentech
 <br />
-* Internship, Department of Corporation Bank, 01/2015-04/2015
+* Internship, Department of Corporation Bank, 01/2015 - 04/2015
   * The Bank of East Asia (China) Limited, Beijing Branch
   <!-- 
   *Duties included: Tagging issues
@@ -93,7 +97,7 @@ Services and leaderships
 * BIOS Student Council, Department of Biostatistics and Bioinformatics, 09/2018 - 08/2021
 * BIOS BUZZ Editing Team, Department of Biostatistics and Bioinformatics, 09/2018 - 08/2021
 * Journal Reviewer
-  * Epidemiology, Neuroimage, BMC Medical Research Methodology, Plos One, Scitentific Report, Stats, International Journal of Statisitics in Medical Research
+  * Epidemiology, Neuroimage, BMC Medical Research Methodology, Plos One, Scitentific Report, Stats, International Journal of Statisitics in Medical Research, Mathematics, Informatics, Journal of Public Health Research, Discover Public Health
 * Conference Reviewer
   * APHA 2022
 * Editorial Board
