@@ -83,8 +83,9 @@ author:
   name             : "Lin Ge"
   avatar           : "Lin.jpg"
   bio              : "Assistant Professor of Biostatistics"
-  location         : "Bloomington, IN"
+  dept             : "Department of Epidemiology and Biostatistics"
   employer         : "Indiana University Bloomington"
+  location         : "Bloomington, IN"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FqA84nUAAAAJ&hl=en"
   email            : "gelin@iu.edu"
